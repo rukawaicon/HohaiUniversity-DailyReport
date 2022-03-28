@@ -15,8 +15,8 @@ INDEX_URL = 'http://dailyreport.hhu.edu.cn/pdc/formDesignApi/S/gUTwwojq'
 HISTORY_URL = 'http://dailyreport.hhu.edu.cn/pdc/formDesign/showFormFilled?selfFormWid=A335B048C8456F75E0538101600A6A04&lwUserId=1808080116'
 
 USERAGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36'
-USERNAME = '1808080116'
-PASSWORD = 'Study0624'
+USERNAME = '6'
+PASSWORD = ''
 
 # response_login = requests.post(BASE_URL, data={
 #     'username': USERNAME,
